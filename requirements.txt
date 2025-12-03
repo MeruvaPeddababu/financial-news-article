@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-community
+sentence-transformers
+chromadb
+spacy
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+scikit-learn
+numpy
+tqdm
